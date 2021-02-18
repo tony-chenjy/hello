@@ -1,6 +1,3 @@
-[TOC]
-
----
 # USER GUIDE
 
 ## Using Version Control in VS Code
